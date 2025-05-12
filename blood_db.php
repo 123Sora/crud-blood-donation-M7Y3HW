@@ -1,5 +1,5 @@
 <?php
-$host = "   ";
+$host = "localhost:3308";
 $database = "blood_donation_db";
 $username = "root"; 
 $password = "sivthean03092004"; 
