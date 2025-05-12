@@ -1,8 +1,8 @@
 <?php
-$host = "localhost:3308";
-$database = "blood_donation_db";
-$username = "root"; 
-$password = "sivthean03092004"; 
+$host = "";
+$database = "";
+$username = ""; 
+$password = ""; 
 
 
 $conn = new mysqli($host, $username, $password, $database);
